@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cache-function-deepakmishra",
-    version="0.0.2",
+    version="0.0.3",
     author="Deepak Mishra",
     author_email="deepakmishra117@gmail.com",
     description="A small decorator which helps cache a result of a function",
