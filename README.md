@@ -5,7 +5,7 @@ You can use this python decorator
 to cache a result of a function.
 
 ## Installation
-pip install -i https://test.pypi.org/simple/ cache-function-deepakmishra
+pip install -i https://test.pypi.org/simple/cache-function-deepakmishra
 
 ## Usage
 
